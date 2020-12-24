@@ -1,4 +1,5 @@
 # MachineStudyFrist
+第一次机器学习实验，从DF中的实训题学习方法，此次代码纯手打，无抄袭
 我的训练集为train-fenlei.csv
 我的测试集为test-fenlei.csv
 本次实验采用支持向量机SVM中的SVC框架
